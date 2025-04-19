@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_bee6cf9f9ebfe933b3608792144c51db.jpeg?from=3067671334" group-title="QQQ", 
+#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_bee6cf9f9ebfe933b3608792144c51db.jpeg?from=3067671334" group-title="抖音直播", QQQ
 http://192.168.2.1:35455/douyin/427652269946
-#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_70ff14cbfe213af1d2f503e6db4af741.jpeg?from=3067671334" group-title="轻音乐", 
+#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_70ff14cbfe213af1d2f503e6db4af741.jpeg?from=3067671334" group-title="抖音直播", 轻音乐
 http://192.168.2.1:35455/douyin/328792407285
-#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_0e6cd3cb698a4338d07ba89c6a21364c.jpeg?from=3067671334" group-title="酒吧放松音乐",
+#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_0e6cd3cb698a4338d07ba89c6a21364c.jpeg?from=3067671334" group-title="抖音直播",酒吧音乐
 http://192.168.2.1:35455/douyin/478199196921
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_khPb6YRXNjsE2NSiGcK9C2WPRj-WaflARLhl4B2Uy3tg=s160-c-k-c0x00ffffff-no-rj" group-title="youtube無廣告 輕音樂",
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_khPb6YRXNjsE2NSiGcK9C2WPRj-WaflARLhl4B2Uy3tg=s160-c-k-c0x00ffffff-no-rj" group-title="youtube",無廣告 輕音樂
 http://192.168.2.1:35455/youtube/aK0ezSa7XPw
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/2d3RdGN-D0OdyHb01URP_hgIZiEBbmVrTX6-w-KKA_AvzW9GUQ5x6ItLMRDRCR0WTb-QjFS1=s160-c-k-c0x00ffffff-no-rj" group-title="youtube钢琴曲",
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/2d3RdGN-D0OdyHb01URP_hgIZiEBbmVrTX6-w-KKA_AvzW9GUQ5x6ItLMRDRCR0WTb-QjFS1=s160-c-k-c0x00ffffff-no-rj" group-title="youtube",钢琴曲
 http://192.168.2.1:35455/youtube/cK4LemjoFd0
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/XQQ2Db9DqCCs7nY78wBbGkH5E5KTp0grR_M2FpBFujBPZ_VNEY1uQ-wOa5OcBpLWKTab29It=s88-c-k-c0x00ffffff-no-rj" group-title="吉卜力輕音樂",
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/XQQ2Db9DqCCs7nY78wBbGkH5E5KTp0grR_M2FpBFujBPZ_VNEY1uQ-wOa5OcBpLWKTab29It=s88-c-k-c0x00ffffff-no-rj" group-title="youtube",吉卜力輕音樂
 http://192.168.2.1:35455/youtube/oDPNtYjfJUI
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Qs3nGG2tCs2HZZrTM4SmLDlaJP8CWIdH7hcbKSGOqTEUwmAwzXTPi2n7uI0dEeFr6vMhUljf5Ro=s88-c-k-c0x00ffffff-no-rj" group-title="凤凰台",
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Qs3nGG2tCs2HZZrTM4SmLDlaJP8CWIdH7hcbKSGOqTEUwmAwzXTPi2n7uI0dEeFr6vMhUljf5Ro=s88-c-k-c0x00ffffff-no-rj" group-title="youtube",凤凰台
 http://192.168.2.1:35455/youtube/HFib76ySpbU
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/6f/3626ef611e990cbbcefab8e1bbc561_180_135.jpg?1742131946" group-title="虎牙lpl",
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/6f/3626ef611e990cbbcefab8e1bbc561_180_135.jpg?1742131946" group-title="虎牙",lpl
 http://192.168.2.1:35455/huya/660000
