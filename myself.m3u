@@ -15,3 +15,5 @@ http://192.168.2.1:35455/youtube/oDPNtYjfJUI
 http://192.168.2.1:35455/youtube/HFib76ySpbU
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/6f/3626ef611e990cbbcefab8e1bbc561_180_135.jpg?1742131946" group-title="虎牙",lpl
 http://192.168.2.1:35455/huya/660000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1073/e6/b92794ad021daa617d3bd226bed07b_180_135.jpg?1657299154" group-title="虎牙",4AMWangZai
+http://192.168.2.1:35455/huya/27431570
