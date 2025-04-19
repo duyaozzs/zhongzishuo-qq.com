@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_bee6cf9f9ebfe933b3608792144c51db.jpeg?from=3067671334" group-title="一起看", 蛮多的功夫
+#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_bee6cf9f9ebfe933b3608792144c51db.jpeg?from=3067671334" group-title="QQQ", 
 http://192.168.2.1:35455/douyin/427652269946
+#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_70ff14cbfe213af1d2f503e6db4af741.jpeg?from=3067671334" group-title="轻音乐", 
+http://192.168.2.1:35455/douyin/328792407285
+#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_0e6cd3cb698a4338d07ba89c6a21364c.jpeg?from=3067671334" group-title="酒吧放松音乐",
+http://192.168.2.1:35455/douyin/478199196921
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_khPb6YRXNjsE2NSiGcK9C2WPRj-WaflARLhl4B2Uy3tg=s160-c-k-c0x00ffffff-no-rj" group-title="youtube無廣告 輕音樂",
+http://192.168.2.1:35455/youtube/aK0ezSa7XPw
