@@ -11,7 +11,7 @@ http://192.168.2.1:35455/youtube/aK0ezSa7XPw
 http://192.168.2.1:35455/youtube/cK4LemjoFd0
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/XQQ2Db9DqCCs7nY78wBbGkH5E5KTp0grR_M2FpBFujBPZ_VNEY1uQ-wOa5OcBpLWKTab29It=s88-c-k-c0x00ffffff-no-rj" group-title="youtube",吉卜力輕音樂
 http://192.168.2.1:35455/youtube/oDPNtYjfJUI
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Qs3nGG2tCs2HZZrTM4SmLDlaJP8CWIdH7hcbKSGOqTEUwmAwzXTPi2n7uI0dEeFr6vMhUljf5Ro=s88-c-k-c0x00ffffff-no-rj" group-title="youtube",凤凰台
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNC_LWzaWYG7llixxL2S0ty_jcPft-BcbQyyzTdGa4sm35LriWs7VibPqlGrfAaOeRkkc&usqp=CAU" group-title="youtube",凤凰台
 http://192.168.2.1:35455/youtube/HFib76ySpbU
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/6f/3626ef611e990cbbcefab8e1bbc561_180_135.jpg?1742131946" group-title="虎牙",lpl
 http://192.168.2.1:35455/huya/660000
@@ -19,3 +19,7 @@ http://192.168.2.1:35455/huya/660000
 http://192.168.2.1:35455/huya/27431570
 #EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_2f6680005d00417d356c2.jpeg?from=3067671334" group-title="抖音直播",胖森直播
 http://192.168.2.1:35455/douyin/566388326775
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTisVfdfxZBZN0GjmkhqAzSTVKBVknpNez_a9gM5SnKLkZNBmlkdZRr1jdYhlVKgQihoo&usqp=CAU" group-title="youtube",凤凰中文
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNC_LWzaWYG7llixxL2S0ty_jcPft-BcbQyyzTdGa4sm35LriWs7VibPqlGrfAaOeRkkc&usqp=CAU" group-title="youtube",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
