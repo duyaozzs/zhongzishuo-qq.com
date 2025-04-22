@@ -17,3 +17,5 @@ http://192.168.2.1:35455/youtube/HFib76ySpbU
 http://192.168.2.1:35455/huya/660000
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1073/e6/b92794ad021daa617d3bd226bed07b_180_135.jpg?1657299154" group-title="虎牙",4AMWangZai
 http://192.168.2.1:35455/huya/27431570
+#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_2f6680005d00417d356c2.jpeg?from=3067671334" group-title="抖音直播",胖森直播
+http://192.168.2.1:35455/douyin/566388326775
