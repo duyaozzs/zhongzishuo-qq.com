@@ -21,7 +21,9 @@ http://192.168.2.1:35455/douyin/566388326775
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNC_LWzaWYG7llixxL2S0ty_jcPft-BcbQyyzTdGa4sm35LriWs7VibPqlGrfAaOeRkkc&usqp=CAU" group-title="电视直播",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 tvg-logo="https://img1.baidu.com/it/u=2661779864,3199761813&fm=253&fmt=auto&app=138&f=JPEG?w=523&h=500" group-title="电视直播",娄底台
-http://223.145.224.103:8000/udp/239.76.248.19:1234
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1067/a7/a4ef768d73ace55fbc7adce0f4e329_180_135.jpg?1517472689&484924" group-title="虎牙",电影最top
+http://192.168.2.1:35455/huya/11774959
 #EXTINF:-1 tvg-logo="https://img1.baidu.com/it/u=1442544923,979907673&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=667" group-title="电视直播",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1093/7d/dadedd6e597a39a42aa194849bad40_180_135.jpg?1585195897&484924" group-title="虎牙",非凡武林
+http://192.168.2.1:35455/huya/21674665
