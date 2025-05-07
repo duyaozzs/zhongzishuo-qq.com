@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_bee6cf9f9ebfe933b3608792144c51db.jpeg?from=3067671334" group-title="抖音直播", QQQ
 http://192.168.2.1:35455/douyin/427652269946
-#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_70ff14cbfe213af1d2f503e6db4af741.jpeg?from=3067671334" group-title="抖音直播", 轻音乐
-http://192.168.2.1:35455/douyin/328792407285
+#EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_ed0f662b9ffa5c4c57686291b6fb776c.jpeg?from=3067671334" group-title="抖音直播", 瞭望東方周刊
+http://192.168.2.1:35455/douyin/790039693805
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_khPb6YRXNjsE2NSiGcK9C2WPRj-WaflARLhl4B2Uy3tg=s160-c-k-c0x00ffffff-no-rj" group-title="youtube",無廣告 輕音樂
 http://192.168.2.1:35455/youtube/aK0ezSa7XPw
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/2d3RdGN-D0OdyHb01URP_hgIZiEBbmVrTX6-w-KKA_AvzW9GUQ5x6ItLMRDRCR0WTb-QjFS1=s160-c-k-c0x00ffffff-no-rj" group-title="youtube",钢琴曲
