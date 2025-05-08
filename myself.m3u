@@ -27,3 +27,11 @@ http://192.168.2.1:35455/huya/11774959
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1093/7d/dadedd6e597a39a42aa194849bad40_180_135.jpg?1585195897&484924" group-title="虎牙",非凡武林
 http://192.168.2.1:35455/huya/21674665
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/NpMAr_1M_AmJVLd5NeXLyijBR0kXAoAkdGkGYIvRGtmOf4fRJhJFMlbbXe4EohjJAy3NHMU6TMw=s88-c-k-c0x00ffffff-no-rj" group-title="youtube",MBC 韓國女團
+http://192.168.2.1:35455/youtube/iKQIOhkVeYM
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/H97A7dJ3by9fElaC_-nSTMUlXQ_7Ww_lwFiJPvzjIi1aDlf988kN3eaxTzIh6BZUgfU0jZwz=s88-c-k-c0x00ffffff-no-rj" group-title="youtube",k-pop 舞團
+http://192.168.2.1:35455/youtube/JVocS7Yftw8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kcXcgjU4A8Pj5xPx-8W_7CI41u7Oq2L7rxqhUnY1Zrme8=s88-c-k-c0x00ffffff-no-rj" group-title="youtube",The Good Life
+http://192.168.2.1:35455/youtube/36YnV9STBqc
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/4ELMDSAgoW6pPL6l2etNR4e4NzPD2Abx3uR1OAa2ujlpBqZNEVP2QKpA48-I6JL_5KKvpbYFkao=s88-c-k-c0x00ffffff-no-rj" group-title="youtube",北海道物語
+http://192.168.2.1:35455/youtube/00RFJdYG2oc
