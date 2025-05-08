@@ -35,3 +35,5 @@ http://192.168.2.1:35455/youtube/JVocS7Yftw8
 http://192.168.2.1:35455/youtube/36YnV9STBqc
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/4ELMDSAgoW6pPL6l2etNR4e4NzPD2Abx3uR1OAa2ujlpBqZNEVP2QKpA48-I6JL_5KKvpbYFkao=s88-c-k-c0x00ffffff-no-rj" group-title="youtube",北海道物語
 http://192.168.2.1:35455/youtube/00RFJdYG2oc
+#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/douyin-user-private-image_49b703482125720a51fb8c7018989507_102350735397.jpeg?from=3067671334" group-title="抖音直播",看看新聞
+http://192.168.2.1:35455/douyin/808207714751
