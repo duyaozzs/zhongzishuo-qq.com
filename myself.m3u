@@ -37,3 +37,7 @@ http://192.168.2.1:35455/youtube/36YnV9STBqc
 http://192.168.2.1:35455/youtube/00RFJdYG2oc
 #EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/douyin-user-private-image_49b703482125720a51fb8c7018989507_102350735397.jpeg?from=3067671334" group-title="抖音直播",看看新聞
 http://192.168.2.1:35455/douyin/808207714751
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/stUf6P7kJeOrW96ZKdaHoYvg6USCR0MOe90jfOp2oTLOdPWeQDIKNm6S25wcEzJBXuVLRNmAag=s88-c-k-c0x00ffffff-no-rj",group-title="youtube",中天新聞
+http://192.168.2.1:35455/youtube/vr3XyVCR4T0
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/IrPD-qWFtgEr0kplk7RvA5HWJz3BLzg8mBMh9bz2lNvRSE_YgCErB7dheHcQohExnC_VCdCKnA=s88-c-k-c0x00ffffff-no-rj",group-title="youtube",TVBS
+http://192.168.2.1:35455/youtube/Orgx_h09bNc
