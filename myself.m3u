@@ -41,3 +41,9 @@ http://192.168.2.1:35455/douyin/808207714751
 http://192.168.2.1:35455/youtube/vr3XyVCR4T0
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/IrPD-qWFtgEr0kplk7RvA5HWJz3BLzg8mBMh9bz2lNvRSE_YgCErB7dheHcQohExnC_VCdCKnA=s88-c-k-c0x00ffffff-no-rj",group-title="youtube",TVBS
 http://192.168.2.1:35455/youtube/Orgx_h09bNc
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1091/81/83db719fdd1239505a63cc63ef68bd_180_135.jpg?1727395265" group-title="虎牙",小叮当
+http://192.168.2.1:35455/huya/30255469
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1089/1e/2881597bcb701b383dfb14d663e00b_180_135.jpg?1727431183" group-title="虎牙",4AM小海
+http://192.168.2.1:35455/huya/30256299
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1002/87/bdce21729b2ebfa2f37f18551bdc9e_180_135.jpg?1606202191" group-title="虎牙",pubg赛事直播
+http://192.168.2.1:35455/huya/660121
