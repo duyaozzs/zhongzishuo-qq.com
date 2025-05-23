@@ -47,3 +47,5 @@ http://192.168.2.1:35455/huya/30255469
 http://192.168.2.1:35455/huya/30256299
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1002/87/bdce21729b2ebfa2f37f18551bdc9e_180_135.jpg?1606202191" group-title="虎牙",pubg赛事直播
 http://192.168.2.1:35455/huya/660121
+#EXTINF:-1 tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_7c0b6bf558cea2b5fda12f1e9f3c78cb.jpeg?from=3067671334" group-title="抖音直播", MOZZ
+http://192.168.2.1:35455/douyin/37933003538
