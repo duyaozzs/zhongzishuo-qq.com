@@ -53,3 +53,6 @@ http://192.168.2.1:35455/douyin/37933003538
 http://192.168.2.1:35455/douyin/398700132275
 #EXTINF:-1 tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/douyin-admin-obj_4ed0c2e01c3c6e4840ad04723b8d63c4.jpeg?from=3067671334" group-title="抖音直播", 英超
 http://192.168.2.1:35455/douyin/462733132834
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkKEdyi19F0N152PEhLSZbLycbYv6FOSLvihesft01EQ&s=10" group-title="fox", 体育
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+
