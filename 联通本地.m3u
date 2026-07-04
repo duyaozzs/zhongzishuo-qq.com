@@ -1,90 +1,60 @@
 #EXTM3U
-# 央视分组
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1综合" tvg-logo="shturl.cc/nUOPQtxoHwXPdkwjAMgbg149Dl8S0HZXend0MMSb9zJvseseWAeHfQ" group-title="央视",CCTV1
-rtp://239.86.1.66:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2财经" tvg-logo="shturl.cc/EPAdxYeDYQZEy34MTCVrc23F8K7rSkCb2i3OIdWHj5iFjv7pilEEHD" group-title="央视",CCTV2
-rtp://239.86.1.173:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3综艺" tvg-logo="shturl.cc/K2HZk2YuBc3tx1sKceK3Kc94swNLZDeaAtLg95z3IMXyR3naNSECqA" group-title="央视",CCTV3
-rtp://239.86.1.174:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4中文国际" tvg-logo="shturl.cc/hVDQ56bGbyQrKoAEHVjJ0HJzkRc31lbUE4onZDzBTdcNDJpoE0Iubv" group-title="央视",CCTV4
-rtp://239.86.1.228:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5体育" tvg-logo="shturl.cc/DxZaZum1yxJ4FgSxWm3Vk8fpM5olGyDjed7McDOewa8pbUzNeFf2UA" group-title="央视",CCTV5
-rtp://239.86.1.116:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6电影" tvg-logo="shturl.cc/6jtwNSQfWemkWts1RFWYbT50tMb54Eqbdk1vvF0qZFbfTfzpjHL5Ck" group-title="央视",CCTV6
-rtp://239.86.1.175:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7国防军事" tvg-logo="shturl.cc/iQJUVbhORhi3BtpwstCng9M3DchBH0ZVtvxrK2xhBWLVuQiq4PU7VI" group-title="央视",CCTV7
-rtp://239.86.1.176:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8电视剧" tvg-logo="shturl.cc/bvEdTFJmSpptMC26GreeZeiXZVSITvHEAhSk44PSl9Ji7bvqUb7d8S" group-title="央视",CCTV8
-rtp://239.86.1.177:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9纪录" tvg-logo="shturl.cc/36wFeQjJDou3Z2G6UPItRShqkCUoWPukrOKRMCyJowC9tCD0EZ3iq6" group-title="央视",CCTV9
-rtp://239.86.1.178:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10科教" tvg-logo="shturl.cc/P7zxtPXdCTdjC7Dihy5vZ29DNxJZqO7SekfRRGwRGUdRCLsCUm6ltQI" group-title="央视",CCTV10
-rtp://239.86.1.179:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11戏曲" tvg-logo="shturl.cc/qs61m1E7pjr2CRYHJBJgJLStocQmtEQ2zhnV42ALXkuozetOnLO8sPx" group-title="央视",CCTV11
-rtp://239.86.1.87:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12社会与法" tvg-logo="shturl.cc/Z2b6519WCqZuOe93NOFaI3PPeZmGcO05MosYCIJoOpKQ6wFU0MQRwt3" group-title="央视",CCTV12
-rtp://239.86.1.180:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13新闻" tvg-logo="shturl.cc/uzUgE3NRY6U6cFnVKV2TNJFRTxB9EKHxtMRT1lw2N9Br0O3sFHe7hoc" group-title="央视",CCTV13新闻
-rtp://239.86.1.229:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14少儿" tvg-logo="shturl.cc/rtUn2LbaP2WxSOXJaatIbFfCbWsvH3nrI3enbndru2t3IAV2SzTeuvY" group-title="央视",CCTV14少儿
-rtp://239.86.1.181:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15音乐" tvg-logo="shturl.cc/Mv6ypGTkj36Mwdh47SFiISdZeJAoXpOHowUxl2HCHMQWi5kNOotsaXF" group-title="央视",CCTV15音乐
-rtp://239.86.1.88:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16奥运" tvg-logo="shturl.cc/kvdyY8LKOQBEjTzY5OEgX9JX3ecNO5MUj9fwWc6pylceXsp5O5IOhpG" group-title="央视",CCTV16戏曲
-rtp://239.86.207:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-
-#EXTINF:-1 tvg-id="CCTV5P" tvg-name="CCTV5+体育赛事" tvg-logo="shturl.cc/fB8STmyxgRqWO9ATQlvl8FTu6vdwWU3ZuTubZoQzz9s1taQiSWgytJI" group-title="央视",CCTV5+体育赛事
-rtp://239.86.1.115:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-
-# 国际频道分组
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN新闻" tvg-logo="shturl.cc/sRAwYZDEDSeM0AR2Uj5Y17a0NfCmBYuSgrQ8hm7wTZQa9RsiXsWwr" group-title="国际频道",CGTN
-rtp://239.86.1.78:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-
-#EXTINF:-1 tvg-id="CGTNDoc" tvg-name="CGTN纪录" tvg-logo="shturl.cc/m7CiLjdtj4E0r0GXqt6b2zLSfZizQQbcqAWIISDyddlXlj40pIQdOMJLt8x8xOEM5" group-title="国际频道",CGTN纪录
-rtp://239.86.1.28:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-
-#EXTINF:-1 tvg-id="CGTNCulture" tvg-name="CGTN文化" tvg-logo="shturl.cc/KT3GvmYIyODDRxwpjtcyhsDhyQwijdpmgiSiFgOFTW0qubErsC4b78voGJDA7" group-title="国际频道",CGTN文化
-rtp://239.86.1.29:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-
-#EXTINF:-1 tvg-id="CCTV4EU" tvg-name="中文国际欧洲" tvg-logo="shturl.cc/vJ5n5xEjS7ahpskIANce1ma4ePxWrbtMgGYg2zApSPq8DuptHUS2gPJg0jSG5" group-title="国际频道",中文国际欧洲
-rtp://239.86.1.79:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-
-#EXTINF:-1 tvg-id="CCTV4AM" tvg-name="中文国际美洲" tvg-logo="shturl.cc/rzG7UN8WIbNma3nw3ju1RBgjbug1xbEilqaeTLQFAzHezsQFmyn4PEMEYl7i0E" group-title="国际频道",中文国际美洲
-rtp://239.86.1.220:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-
-#EXTINF:-1 tvg-id="CGTNES" tvg-name="CGTN西班牙" tvg-logo="shturl.cc/NGpj5G2RBqikwnpN60XUOpfiXNjD5dwT4a8U3IsT9o8GfkmB5GT6lvTyQArhg" group-title="国际频道",CGTN西班牙
-rtp://239.86.1.164:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-
-#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1中国教育一台" tvg-logo="shturl.cc/dV9SWa9H9IZRXFQG4ejx5CmA5WwjCv5EafL6erobRvQYiYhZgdVC5KI" group-title="教育台",CETV1
-rtp://239.86.2.106:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-
-# 湖南本地分组
-#EXTINF:-1 tvg-id="HNETV" tvg-name="湖南经视" tvg-logo="shturl.cc/xS4sAiwTz075yskKjbBmtLWTLs2SEcrLIZplqocpA1" group-title="湖南本地",湖南经视
-rtp://239.86.1.65:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-
-#EXTINF:-1 tvg-id="HNEDU" tvg-name="湖南教育" tvg-logo="shturl.cc/mfGZtgpi100sDUmpWdGMWDYpVr7abbfBc8rT9CLu5G" group-title="湖南本地",湖南教育
-rtp://239.86.1.249:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-
-#EXTINF:-1 tvg-id="CSZF" tvg-name="长沙政法频道" tvg-logo="shturl.cc/RCQupHuqA3Tmb8cIKIJBgNZPX0ebjynDDbyyEj5ku" group-title="湖南本地",长沙政法频道
-rtp://239.86.1.225:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-
-#EXTINF:-1 tvg-id="CSXW" tvg-name="长沙新闻综合" tvg-logo="shturl.cc/SeZkGTZZkI1ynWKQeM1O8HP3tk9Fieuo6BIlpqNJo" group-title="湖南本地",长沙新闻综合
-rtp://239.86.1.226:1234
-
-#EXTINF:-1 tvg-id="OTHER" tvg-name="地方分类频道" tvg-logo="shturl.cc/K0ExdBsuqXaEIfX3w6Jru4qlQxePwVmC7bj3J1tPPO" group-title="其他",地方分类频道
-rtp://239.86.6.106:1234
+# 央视频道
+#EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV1.png" group-title="央视",CCTV1综合
+http://192.168.2.1:4022/rtp/239.86.1.66:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+#EXTINF:-1 tvg-name="CCTV2财经" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV2.png" group-title="央视",CCTV2财经
+http://192.168.2.1:4022/rtp/239.86.1.173:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+#EXTINF:-1 tvg-name="CCTV3综艺" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV3.png" group-title="央视",CCTV3综艺
+http://192.168.2.1:4022/rtp/239.86.1.174:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+#EXTINF:-1 tvg-name="CCTV4中文国际" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV4.png" group-title="央视",CCTV4中文国际
+http://192.168.2.1:4022/rtp/239.86.1.228:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+#EXTINF:-1 tvg-name="CCTV5体育" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV5.png" group-title="央视",CCTV5体育
+http://192.168.2.1:4022/rtp/239.86.1.116:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+#EXTINF:-1 tvg-name="CCTV6电影" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV6.png" group-title="央视",CCTV6电影
+http://192.168.2.1:4022/rtp/239.86.1.175:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+#EXTINF:-1 tvg-name="CCTV7国防军事" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV7.png" group-title="央视",CCTV7国防军事
+http://192.168.2.1:4022/rtp/239.86.1.176:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+#EXTINF:-1 tvg-name="CCTV8电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV8.png" group-title="央视",CCTV8电视剧
+http://192.168.2.1:4022/rtp/239.86.1.177:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+#EXTINF:-1 tvg-name="CCTV9纪录" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV9.png" group-title="央视",CCTV9纪录
+http://192.168.2.1:4022/rtp/239.86.1.178:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+#EXTINF:-1 tvg-name="CCTV10科教" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV10.png" group-title="央视",CCTV10科教
+http://192.168.2.1:4022/rtp/239.86.1.179:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+#EXTINF:-1 tvg-name="CCTV11戏曲" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV11.png" group-title="央视",CCTV11戏曲
+http://192.168.2.1:4022/rtp/239.86.1.87:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+#EXTINF:-1 tvg-name="CCTV12社会与法" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV12.png" group-title="央视",CCTV12社会与法
+http://192.168.2.1:4022/rtp/239.86.1.180:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+#EXTINF:-1 tvg-name="CCTV13新闻" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV13.png" group-title="央视",CCTV13新闻
+http://192.168.2.1:4022/rtp/239.86.1.229:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+#EXTINF:-1 tvg-name="CCTV14少儿" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV14.png" group-title="央视",CCTV14少儿
+http://192.168.2.1:4022/rtp/239.86.1.181:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+#EXTINF:-1 tvg-name="CCTV15音乐" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV15.png" group-title="央视",CCTV15音乐
+http://192.168.2.1:4022/rtp/239.86.1.88:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+#EXTINF:-1 tvg-name="CCTV16戏曲" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV16.png" group-title="央视",CCTV16戏曲
+http://192.168.2.1:4022/rtp/239.86.1.207:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+#EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV5+.png" group-title="央视",CCTV5+体育赛事
+http://192.168.2.1:4022/rtp/239.86.1.115:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CGTN.png" group-title="央视国际",CGTN
+http://192.168.2.1:4022/rtp/239.86.1.78:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CGTN-Documentary.png" group-title="央视国际",CGTN纪录
+http://192.168.2.1:4022/rtp/239.86.1.28:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+#EXTINF:-1 tvg-name="CGTN文化" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CGTN-Culture.png" group-title="央视国际",CGTN文化
+http://192.168.2.1:4022/rtp/239.86.1.29:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+#EXTINF:-1 tvg-name="中文国际欧洲" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV4-Europe.png" group-title="央视国际",中文国际欧洲
+http://192.168.2.1:4022/rtp/239.86.1.79:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+#EXTINF:-1 tvg-name="中文国际美洲" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV4-America.png" group-title="央视国际",中文国际美洲
+http://192.168.2.1:4022/rtp/239.86.1.220:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+#EXTINF:-1 tvg-name="CGTN西班牙" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CGTN-Spanish.png" group-title="央视国际",CGTN西班牙
+http://192.168.2.1:4022/rtp/239.86.1.164:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CETV-1.png" group-title="教育台",CETV1
+http://192.168.2.1:4022/rtp/239.86.2.106:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://cdn.jsdelivr.net/gh/vircloud/TVLogo@main/HNETV.png" group-title="湖南本地",湖南经视
+http://192.168.2.1:4022/rtp/239.86.1.65:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+#EXTINF:-1 tvg-name="湖南教育" tvg-logo="https://cdn.jsdelivr.net/gh/vircloud/TVLogo@main/HNEDU.png" group-title="湖南本地",湖南教育
+http://192.168.2.1:4022/rtp/239.86.1.249:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+#EXTINF:-1 tvg-name="长沙政法频道" tvg-logo="https://cdn.jsdelivr.net/gh/vircloud/TVLogo@main/CSZF.png" group-title="湖南本地",长沙政法频道
+http://192.168.2.1:4022/rtp/239.86.1.225:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+#EXTINF:-1 tvg-name="长沙新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/vircloud/TVLogo@main/CSXW.png" group-title="湖南本地",长沙新闻综合
+http://192.168.2.1:4022/rtp/239.86.1.226
+#EXTINF:-1 tvg-name="地方分类频道" tvg-logo="https://cdn.jsdelivr.net/gh/vircloud/TVLogo@main/local.png" group-title="其他",地方分类频道
+http://192.168.2.1:4022/rtp/239.86.6.106:1234
