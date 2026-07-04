@@ -1,0 +1,90 @@
+#EXTM3U x-tvg-url="https://gitee.com/mytv-android/myepg/raw/master/output/epg.gz"
+
+# 央视频道
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV1.png" group-title="央视",CCTV1
+rtp://239.86.1.66:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2财经" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV2.png" group-title="央视",CCTV2
+rtp://239.86.1.173:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3综艺" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV3.png" group-title="央视",CCTV3
+rtp://239.86.1.174:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4中文国际" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV4.png" group-title="央视",CCTV4
+rtp://239.86.1.228:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5体育" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV5.png" group-title="央视",CCTV5
+rtp://239.86.1.116:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV6.png" group-title="央视",CCTV6
+rtp://239.86.1.175:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7国防军事" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV7.png" group-title="央视",CCTV7
+rtp://239.86.1.176:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8电视剧" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV8.png" group-title="央视",CCTV8
+rtp://239.86.1.177:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9纪录" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV9.png" group-title="央视",CCTV9
+rtp://239.86.1.178:1234?ChannelFCCIP=10.16.185&ChannelFCCPort=8027
+
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10科教" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV10.png" group-title="央视",CCTV10
+rtp://239.86.1.179:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11戏曲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV11.png" group-title="央视",CCTV11
+rtp://239.86.1.87:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12社会与法" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV12.png" group-title="央视",CCTV12
+rtp://239.86.1.180:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV13.png" group-title="央视",CCTV13新闻
+rtp://239.86.1.229:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14少儿" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV14.png" group-title="央视",CCTV14少儿
+rtp://239.86.1.181:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15音乐" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV15.png" group-title="央视",CCTV15音乐
+rtp://239.86.1.88:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16奥运" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV16.png" group-title="央视",CCTV16戏曲
+rtp://239.86.1.207:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+体育赛事" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV5+.png" group-title="央视",CCTV5+体育赛事
+rtp://239.86.1.115:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CGTN.png" group-title="央视国际",CGTN
+rtp://239.86.1.78:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+
+#EXTINF:-1 tvg-id="CGTNDoc" tvg-name="CGTN纪录" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CGTN-Documentary.png" group-title="央视国际",CGTN纪录
+rtp://239.86.1.28:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+
+#EXTINF:-1 tvg-id="CGTNCulture" tvg-name="CGTN文化" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CGTN-Culture.png" group-title="央视国际",CGTN文化
+rtp://239.86.1.29:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+
+#EXTINF:-1 tvg-id="CGTNEurope" tvg-name="中文国际欧洲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV4-Europe.png" group-title="央视国际",中文国际欧洲
+rtp://239.86.1.79:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+
+#EXTINF:-1 tvg-id="CGTNAmerica" tvg-name="中文国际美洲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CCTV4-America.png" group-title="央视国际",中文国际美洲
+rtp://239.86.1.220:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+
+#EXTINF:-1 tvg-id="CGTNSpanish" tvg-name="CGTN西班牙" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CGTN-Spanish.png" group-title="央视国际",CGTN西班牙
+rtp://239.86.1.164:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1中国教育一台" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/master/img/CETV-1.png" group-title="教育台",CETV1
+rtp://239.86.2.106:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+
+# 湖南本地频道
+#EXTINF:-1 tvg-id="HNETV" tvg-name="湖南经视" tvg-logo="https://gitee.com/vircloud/TVLogo/raw/main/HNETV.png" group-title="湖南本地",湖南经视
+rtp://239.86.1.65:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+
+#EXTINF:-1 tvg-id="HNEDU" tvg-name="湖南教育" tvg-logo="https://gitee.com/vircloud/TVLogo/raw/main/HNEDU.png" group-title="湖南本地",湖南教育
+rtp://239.86.1.249:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+
+#EXTINF:-1 tvg-id="CSZF" tvg-name="长沙政法频道" tvg-logo="https://gitee.com/vircloud/TVLogo/raw/main/CSZF.png" group-title="湖南本地",长沙政法频道
+rtp://239.86.1.225:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
+
+#EXTINF:-1 tvg-id="CSXW" tvg-name="长沙新闻综合" tvg-logo="https://gitee.com/vircloud/TVLogo/raw/main/CSXW.png" group-title="湖南本地",长沙新闻综合
+rtp://239.86.1.226:1234
+
+#EXTINF:-1 tvg-id="LOCAL" tvg-name="地方分类频道" tvg-logo="https://gitee.com/vircloud/TVLogo/raw/main/local.png" group-title="其他",地方分类频道
+rtp://239.86.6.106:1234
