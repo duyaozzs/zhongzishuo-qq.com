@@ -10,15 +10,15 @@ http://192.168.2.1:4022/rtp/239.86.1.174:1234?ChannelFCCIP=10.16.10.185&ChannelF
 http://192.168.2.1:4022/rtp/239.86.1.228:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5体育" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV5.png" group-title="央视",CCTV5体育
 http://192.168.2.1:4022/rtp/239.86.1.116:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-#EXTINF:-1 tvg-name="CCTV6电影" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV6.png" group-title="央视",CCTV6电影
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6电影" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV6.png" group-title="央视",CCTV6电影
 http://192.168.2.1:4022/rtp/239.86.1.175:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-#EXTINF:-1 tvg-name="CCTV7国防军事" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV7.png" group-title="央视",CCTV7国防军事
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7国防军事" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV7.png" group-title="央视",CCTV7国防军事
 http://192.168.2.1:4022/rtp/239.86.1.176:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-#EXTINF:-1 tvg-name="CCTV8电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV8.png" group-title="央视",CCTV8电视剧
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV8.png" group-title="央视",CCTV8电视剧
 http://192.168.2.1:4022/rtp/239.86.1.177:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-#EXTINF:-1 tvg-name="CCTV9纪录" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV9.png" group-title="央视",CCTV9纪录
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9纪录" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV9.png" group-title="央视",CCTV9纪录
 http://192.168.2.1:4022/rtp/239.86.1.178:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-#EXTINF:-1 tvg-name="CCTV10科教" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV10.png" group-title="央视",CCTV10科教
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10科教" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV10.png" group-title="央视",CCTV10科教
 http://192.168.2.1:4022/rtp/239.86.1.179:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
 #EXTINF:-1 tvg-name="CCTV11戏曲" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV11.png" group-title="央视",CCTV11戏曲
 http://192.168.2.1:4022/rtp/239.86.1.87:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
