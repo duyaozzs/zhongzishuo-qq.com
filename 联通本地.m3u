@@ -1,14 +1,14 @@
 #EXTM3U
 # 央视频道
-#EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV1.png" group-title="央视",CCTV1综合
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1综合" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV1.png" group-title="央视",CCTV1综合
 http://192.168.2.1:4022/rtp/239.86.1.66:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-#EXTINF:-1 tvg-name="CCTV2财经" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV2.png" group-title="央视",CCTV2财经
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2财经" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV2.png" group-title="央视",CCTV2财经
 http://192.168.2.1:4022/rtp/239.86.1.173:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-#EXTINF:-1 tvg-name="CCTV3综艺" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV3.png" group-title="央视",CCTV3综艺
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3综艺" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV3.png" group-title="央视",CCTV3综艺
 http://192.168.2.1:4022/rtp/239.86.1.174:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-#EXTINF:-1 tvg-name="CCTV4中文国际" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV4.png" group-title="央视",CCTV4中文国际
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4中文国际" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV4.png" group-title="央视",CCTV4中文国际
 http://192.168.2.1:4022/rtp/239.86.1.228:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
-#EXTINF:-1 tvg-name="CCTV5体育" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV5.png" group-title="央视",CCTV5体育
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5体育" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV5.png" group-title="央视",CCTV5体育
 http://192.168.2.1:4022/rtp/239.86.1.116:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
 #EXTINF:-1 tvg-name="CCTV6电影" tvg-logo="https://cdn.jsdelivr.net/gh/mytv-android/myTVlogo@master/img/CCTV6.png" group-title="央视",CCTV6电影
 http://192.168.2.1:4022/rtp/239.86.1.175:1234?ChannelFCCIP=10.16.10.185&ChannelFCCPort=8027
