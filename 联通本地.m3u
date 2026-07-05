@@ -58,3 +58,55 @@ http://192.168.2.1:4022/rtp/239.86.1.225:1234?ChannelFCCIP=10.16.10.185&ChannelF
 http://192.168.2.1:4022/rtp/239.86.1.226
 #EXTINF:-1 tvg-name="地方分类频道" tvg-logo="https://cdn.jsdelivr.net/gh/vircloud/TVLogo@main/local.png" group-title="其他",地方分类频道
 http://192.168.2.1:4022/rtp/239.86.6.106:1234
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:0
+
+# 湖南本地频道
+#EXTINF:-1 tvg-id="hunan_tv" tvg-logo="https://live.fanmingming.com/logo/湖南卫视.png",湖南卫视
+http://192.168.2.1:4022/rtp/239.86.1.64:1234
+#EXTINF:-1 tvg-id="hunan_city" tvg-logo="https://live.fanmingming.com/logo/湖南都市.png",湖南都市
+http://192.168.2.1:4022/rtp/239.86.1.165:1234
+#EXTINF:-1 tvg-id="hunan_ent" tvg-logo="https://live.fanmingming.com/logo/湖南娱乐.png",湖南娱乐
+http://192.168.2.1:4022/rtp/239.86.1.169:1234
+#EXTINF:-1 tvg-id="cs_law" tvg-logo="https://live.fanmingming.com/logo/长沙政法频道.png",长沙政法频道
+http://192.168.2.1:4022/rtp/239.86.1.225:1234
+
+# 上星卫视
+#EXTINF:-1 tvg-id="js_tv" tvg-logo="https://live.fanmingming.com/logo/江苏卫视.png",江苏卫视
+http://192.168.2.1:4022/rtp/239.86.1.68:1234
+#EXTINF:-1 tvg-id="zj_tv" tvg-logo="https://live.fanmingming.com/logo/浙江卫视.png",浙江卫视
+http://192.168.2.1:4022/rtp/239.86.1.69:1234
+#EXTINF:-1 tvg-id="ah_tv" tvg-logo="https://live.fanmingming.com/logo/安徽卫视.png",安徽卫视
+http://192.168.2.1:4022/rtp/239.86.1.230:1234
+#EXTINF:-1 tvg-id="bj_tv" tvg-logo="https://live.fanmingming.com/logo/北京卫视.png",北京卫视
+http://192.168.2.1:4022/rtp/239.86.1.70:1234
+#EXTINF:-1 tvg-id="sz_tv" tvg-logo="https://live.fanmingming.com/logo/深圳卫视.png",深圳卫视
+http://192.168.2.1:4022/rtp/239.86.1.73:1234
+
+# 国际频道
+#EXTINF:-1 tvg-id="cgtn_en" tvg-logo="https://live.fanmingming.com/logo/CGTN英文.png",中国国际频道英文台
+http://192.168.2.1:4022/rtp/239.86.1.28:1234
+#EXTINF:-1 tvg-id="cgtn_doc" tvg-logo="https://live.fanmingming.com/logo/CGTN纪录.png",中国国际频道记录台
+http://192.168.2.1:4022/rtp/239.86.1.29:1234
+
+# 付费/特色频道
+#EXTINF:-1 tvg-id="fengyun_football" tvg-logo="https://live.fanmingming.com/logo/风云足球.png",风云足球
+http://[2408:8352:a17:9a50:1ec5:6bff:fec0:c32]:4022/rtp/239.86.2.28:1234
+#EXTINF:-1 tvg-id="cctv_geo" tvg-logo="https://live.fanmingming.com/logo/CCTV世界地理.png",CCTV世界地理
+http://192.168.2.1:4022/rtp/239.86.2.32:1234
+#EXTINF:-1 tvg-id="old_story" tvg-logo="https://live.fanmingming.com/logo/老故事.png",老故事
+http://192.168.2.1:4022/rtp/239.86.2.22:1234
+#EXTINF:-1 tvg-id="middle_student" tvg-logo="https://live.fanmingming.com/logo/中学生频道.png",中学生
+http://192.168.2.1:4022/rtp/239.86.2.59:1234
+#EXTINF:-1 tvg-id="fengyun_esport" tvg-logo="https://live.fanmingming.com/logo/风云电竞.png",风云电竞
+http://192.168.2.1:4022/rtp/239.86.2.88:1234
+#EXTINF:-1 tvg-id="chc_action" tvg-logo="https://live.fanmingming.com/logo/CHC动作电影.png",CHC动作电影
+http://192.168.2.1:4022/rtp/239.86.1.84:1234
+#EXTINF:-1 tvg-id="go_game" tvg-logo="https://live.fanmingming.com/logo/开元围棋.png",开元围棋
+http://192.168.2.1:4022/rtp/239.86.1.152:1234
+#EXTINF:-1 tvg-id="fengyun_music" tvg-logo="https://live.fanmingming.com/logo/风云音乐.png",风云音乐
+http://192.168.2.1:4022/rtp/239.86.2.27:1234
+#EXTINF:-1 tvg-id="fashion_woman" tvg-logo="https://live.fanmingming.com/logo/时尚女性.png",时尚女性
+http://192.168.2.1:4022/rtp/239.86.2.30:1234
